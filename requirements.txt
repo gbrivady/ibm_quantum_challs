@@ -1,0 +1,6 @@
+numpy
+matplotlib
+qiskit
+qiskit_ibm_provider
+pylatexenc
+git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git

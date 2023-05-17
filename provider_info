@@ -1,0 +1,7 @@
+# Info on hubs can be found at https://quantum-computing.ibm.com/account, under the 'instances' tab.
+# Should be 'HUB/GROUP/PROJECT'
+
+## SPRING 2023
+SPR_23_HUB = 'your_hub_here'
+SPR_23_GRP = 'your_group_here'
+SPR_23_PRJ = 'your_project_here'
