@@ -7,6 +7,7 @@ From the main page, you can see how many participants have completed the same am
 Time is completion time, basically my time - availability time. FYI, my TZ is Paris - so `UTC+2` for this challenge.
 
 | Lab # | Rank | Time, hh-mm |
-| ----: | ---: | ---: |
+| ----: | ---: | ----: |
 | 1     |  407 | >2:00 |
-| 2     |      | May 18, 2023 at 15:00 (UTC+2) |
+| 2     |    2 | 00:10 |
+| 3     |      | Friday, May 19, 2023 at 9:00AM ET. |
