@@ -11,4 +11,4 @@ Rank is taken from the challenge page [here](https://challenges.quantum-computin
 | ----: | ---: | ----: |
 | 1     |  407 | >2:00 |
 | 2     |    2 | 00:10 |
-| 3     |      | Friday, May 19, 2023 at 9:00AM ET. |
+| 3     |    8 | 00:47 |
