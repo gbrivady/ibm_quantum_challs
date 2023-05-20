@@ -6,7 +6,7 @@ My repository to store my tries at IBM Quantum Challenges.
 
 | Challenge   | Labs done | Last lab progress | Time Left |
 | ----------- | :-------: | :---------------: | --------: |
-| Spring 2023 | 3/5       | Lab 3, 100%       | Ongoing   |
+| Spring 2023 | 4/5       | Lab 4, 100%       | Ongoing   |
 
 ## Setup
 
