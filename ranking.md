@@ -13,5 +13,7 @@ Rank is taken from the challenge page [here](https://challenges.quantum-computin
 | 2     |    2 | 00:10 |
 | 3     |    8 | 00:47 |
 | 4     |    0 | 01:15 |
+| 5     |    2 | 01:22 | 
 
 (PS: lab 4 page was down for ~ 1h, started working on it 20ish minutes late, they are included in time.)
+Lab 5 was up earlier, but do not know by how much, so I timed starting at 13:00 (Paris hour).
